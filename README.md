@@ -1,11 +1,24 @@
-# [My First Application](https://www.github.com/1n3ffbl3/MyFirstApplication)
+# My First Application
 
-The goal of the project is to create a demo version of application. Application itself is designed to create easier way of communication between people and organizations who want to help others, but they struggle to do that due to many circumstances. Let's consider following scenario:
+## [Our project source code](https://github.com/Mariana88/MandM-FinalProject)
+
+## Contributors 
+
+[Mariana88 - Mariana Casella Dos Santos](https://github.com/Mariana88)
+
+[1n3ffble - Marta Mizgier](https://www.github.com/1n3ffbl3)
+
+
+## Description
+
+Goal of our application is to design and provide easier way of communication between people and organizations who want to help others. It is often the case that the people that want to help struggle to do that due to many circumstances. Let's consider following scenario:
+
 "
-  Brave people who want to help are trying to find a humanitarian organisation. They call them to know which needs are currently demanding, i.e. products like diapers. As people have heard about that, they have bought diapers and they went to the organisation office location. At the office, a man is saying that already too many people brought diapers, but now the blankets are in demand.
+  Brave people who wanted to help, were looking for a humanitarian organization. They have called them to know, which needs are currently demanding, i.e. products like diapers. As people have heard about that, they have bought diapers and they went to the organization office location. At the office, a member said, that they have already too many diapers, but now the blankets are in demand.
 "  
+
 As you can see, there is lack of communication between the people that are willing to help, and the organisations themselfs. 
-Here comes our application, as it is designed to fix the missing gap of communication! We will provide a simple tool to make the commucation easier than it ever was. Organisation will be able to organise new events for gathering goods or needs and people will be able to assist and offer their help. Therefore we will reduce the chance or mistakes as we could read in the scenario above.
+Here comes our application, as it is designed to fill the missing gap of communication! We will provide a simple tool to make the commucation easier than it ever was. Organisation will be able to organise new events for gathering goods or needs and people will be able to assist and offer their help. Therefore we will reduce the chance of mistakes as we could read in the scenario above.
 Moreover private persons will be able to offer their help for the community (i.e. shelter for refugee).
 
 
@@ -108,17 +121,17 @@ Explain your solution in detail, however works for you.  Perhaps by using a spec
 
 What constraints did you place on yourself, and why?  Did they end up being helpful or not?
 
-Marta: 
-1. Firstly sketch website on paper then create it.
-2. Write use cases befor implementing logic.
-3. Improve technical vocabulary.
+Marta : 
+1. Firstly sketch website on paper then create it
+2. Write use cases befor implementing logic
+3. Improve technical vocabulary
 
 
-In this application, we have to consider three types of users:
+In this application, we have to consider three types of users :
 * private user
 * user as an organisation
 * member of an organisation
-Each of them have different actions in our application, as you can see it above in our use cases. 
+Each of them have different actions in our application, as you can see it above in our use cases
 
 [TOP](#index)
 
@@ -138,8 +151,8 @@ Estimate how what resources you will require, and how much of each.
 * demo of the application - 3 weeks of development
 * error analysis - 2 hours per week
 * consulting with users (at last 5 people) - 1 week 
-* feedback gathering - 2 day
-* analysing feedback  - 1 days
+* feedback gathering - 2 days
+* analysing feedback  - 1 day
 * implementing feedback - 1 week
 * presentation of first version of the application 
 
@@ -178,12 +191,12 @@ ___
 
 ## Language Features
 
-1. Promises
-2. Arrow functions
-3. Test libraries (tinytest, mocha)
-4. JS libraries (lodash)
-5. Framework (vue js)
-6. Scoping  (diffrence between var & let)
+  * Promises
+  * Arrow functions
+  * Test libraries (tinytest, mocha)
+  * JS libraries (lodash)
+  * Framework (vue js)
+  * Scoping  (diffrence between var & let)
 
 
 [TOP](#index)
@@ -224,7 +237,7 @@ Things I struggled with:
 
 Lessons to apply for next time:
   * better knowledge of html/javascript syntax
-  * debugging
+  * more debugging
   * more intensive testing
   * looking to more efficient libraries to work with
   * learning about others frameworks (i.e. react js)
