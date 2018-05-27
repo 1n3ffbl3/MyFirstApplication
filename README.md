@@ -6,7 +6,7 @@
 
 [Mariana88 - Mariana Casella Dos Santos](https://github.com/Mariana88)
 
-[1n3ffble - Marta Mizgier](https://www.github.com/1n3ffbl3)
+[1n3ffbl3 - Marta Mizgier](https://www.github.com/1n3ffbl3)
 
 
 ## Description
