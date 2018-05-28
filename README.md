@@ -16,7 +16,7 @@ The goal of our application is to design and provide an easier way of communicat
 > " Brave people who wanted to help, were looking for a humanitarian organization. They have called them to know what support is most needed, i.e. products like diapers. As people have heard about that, they have bought diapers and they went to the organization office location. At the office, a member said, that they have already too many diapers, but now the blankets are in demand. "  
 
 As you can see, there is lack of communication between the people that are willing to help, and the organisations themselfs. 
-Here comes our application, as it is designed to fill the missing gap of communication! We will provide a simple tool to make the commucation easier than it ever was. Organisations will be able to organise new events for gathering goods or needs and people will be able to assist and offer their help. Therefore we will reduce the chance of mistakes like we saw in the scenario above.
+Here comes our application, as it is designed to fill the missing gap of communication! We will provide a simple tool to make the communication easier than it ever was. Organisations will be able to organise new events for gathering goods or needs and people will be able to assist and offer their help. Therefore we will reduce the chance of mistakes like we saw in the scenario above.
 Moreover private persons will be able to offer their help for the community (i.e. shelter for refugees).
 
 
