@@ -28,6 +28,8 @@ Moreover private persons will be able to offer their help for the community (i.e
 * [Resource Estimation](#resource-estimation)
 * [Bugs & Challenges](#bugs-challenges) 
 * [Language Features](#language-features)
+* [Libraries](#libraries)
+* [Frameworks](#frameworks)
 * [Learning Journal](#learning-journal)
 
 ---
@@ -192,10 +194,27 @@ ___
 * Promises
 * Arrow functions
 * Test libraries (tinytest, mocha)
-* JS libraries (lodash)
-* Framework (vue js)
-* Scoping  (diffrence between var & let)
+* Scoping (diffrence between var & let)
 
+
+[TOP](#index)
+
+---
+
+## Libraries
+
+* express 
+* path 
+* body-parser
+* cors
+
+[TOP](#index)
+
+---
+## Frameworks
+
+* vue js
+* node js
 
 [TOP](#index)
 
