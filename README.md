@@ -11,15 +11,13 @@
 
 ## Description
 
-Goal of our application is to design and provide easier way of communication between people and organizations who want to help others. It is often the case that the people that want to help struggle to do that due to many circumstances. Let's consider following scenario:
+The goal of our application is to design and provide an easier way of communication between people and organizations who want to help others. It is often the case that the people who want to help struggle to, due to many circumstances. Let's consider following scenario:
 
-"
-  Brave people who wanted to help, were looking for a humanitarian organization. They have called them to know, which needs are currently demanding, i.e. products like diapers. As people have heard about that, they have bought diapers and they went to the organization office location. At the office, a member said, that they have already too many diapers, but now the blankets are in demand.
-"  
+> " Brave people who wanted to help, were looking for a humanitarian organization. They have called them to know what support is most needed, i.e. products like diapers. As people have heard about that, they have bought diapers and they went to the organization office location. At the office, a member said, that they have already too many diapers, but now the blankets are in demand. "  
 
 As you can see, there is lack of communication between the people that are willing to help, and the organisations themselfs. 
-Here comes our application, as it is designed to fill the missing gap of communication! We will provide a simple tool to make the commucation easier than it ever was. Organisation will be able to organise new events for gathering goods or needs and people will be able to assist and offer their help. Therefore we will reduce the chance of mistakes as we could read in the scenario above.
-Moreover private persons will be able to offer their help for the community (i.e. shelter for refugee).
+Here comes our application, as it is designed to fill the missing gap of communication! We will provide a simple tool to make the communication easier than it ever was. Organisations will be able to organise new events for gathering goods or needs and people will be able to assist and offer their help. Therefore we will reduce the chance of mistakes like we saw in the scenario above.
+Moreover private persons will be able to offer their help for the community (i.e. shelter for refugees).
 
 
 ### Index
@@ -30,6 +28,8 @@ Moreover private persons will be able to offer their help for the community (i.e
 * [Resource Estimation](#resource-estimation)
 * [Bugs & Challenges](#bugs-challenges) 
 * [Language Features](#language-features)
+* [Libraries](#libraries)
+* [Frameworks](#frameworks)
 * [Learning Journal](#learning-journal)
 
 ---
@@ -43,66 +43,66 @@ Moreover private persons will be able to offer their help for the community (i.e
 
 ### Organization use cases
 As an Organization I can:
-* 1 Create my account
-* 2 Login into my account
-* 3 Update the Organization's information information
-* 4 Invite team member
-* Accept team members
-* Post ways the organization needs help
+1. Create an account
+2. Login into their account
+3. Update the Organization's information  
+4. Invite team members
+5. Accept team members
+6. Post ways the organization needs help
   * post needs of volunteers
   * post donation needs
-  * mention/tag other organizations or usersor skills which might be related to the post (@mention and/or hashtags)
-* Update the organization posts
-* Delete organization posts
-* Search for help posts (offered or needed)
+  * mention/tag other organizations or users, or skills which might be related to the post (@mention and/or hashtags)
+7. Update the organization posts
+8. Delete organization posts
+9. Search for help posts (offered or needed)
  * See the info or way to contact them
-* Indicate misuse of entity's personal information
+10. Indicate misuse of entity's personal information
  * Associated with other "organizations" in the system
  * associated with other users
  * associated with a post
 
 ### Org Members use cases
 As an Org Member I can:
-* Create an account
-* Associate myself to an Organization as a team member
-* Login into my account
-* Update my personal information
-* Post ways the organization needs help
+1. Create an account
+2. Associate themselves to an Organization as a team member
+3. Login into their account
+4. Update their personal information
+5. Post ways the organization needs help
   * post needs of volunteers
   * post donation needs
   * mention/tag other organizations or usersor skills which might be related to the post (@mention and/or hashtags)
-* Update the organization posts
-* Delete organization posts
-* Post ways I can help:
- * post ways I can volunteer
- * post things I want to donate
+6. Update the organization posts
+7. Delete organization posts
+8. Post ways they can help:
+ * post ways they can volunteer
+ * post things they want to donate
  * mention/tag other organizations or usersor skills which might be related to the post (@mention and/or hashtags)
-* Update my personal posts
-* Delete my personal posts
-* Search for help posts (offered or needed)
+9. Update their personal posts
+10. Delete their personal posts
+11. Search for help posts (offered or needed)
  * See the info or way to contact them
-* Indicate improper use of my account
-* Indicate some impropriety of another account (organization or user)
-* Indicate some impropriety of a post
+12. Indicate improper use of their account
+13. Indicate some impropriety of another account (organization or user)
+14. Indicate some impropriety of a post
 
 
 ### Private Users use cases
 As a private user I can:
-* Create an account
-* Login into my account
-* Update my personal information
-* Post ways I can help:
- * post ways I can volunteer
- * post things I want to donate
-* Update my posts
-* Delete my posts
-* Mark a post as completed (aka "not available" for items)
+1. Create an account
+2. Login into thier account
+3. Update their personal information
+4. Post ways they can help:
+ * post ways they can volunteer
+ * post things they want to donate
+5. Update their posts
+6. Delete their posts
+7. Mark a post as completed (aka "not available" for items)
  * Mark a given item as completed /no longer available
-* Search for help posts (offered or needed)
+8. Search for help posts (offered or needed)
  * See the info or way to contact them
-* Indicate improper use of my account
-* Indicate some impropriety of another account (organization or user)
-* Indicate some impropriety of a post
+9. Indicate improper use of their account
+10. Indicate some impropriety of another account (organization or user)
+11. Indicate some impropriety of a post
 
 
 [TOP](#index)
@@ -192,13 +192,30 @@ ___
 
 ## Language Features
 
-  * Promises
-  * Arrow functions
-  * Test libraries (tinytest, mocha)
-  * JS libraries (lodash)
-  * Framework (vue js)
-  * Scoping  (diffrence between var & let)
+* Promises
+* Arrow functions
+* Test libraries (tinytest, mocha)
+* Scoping (diffrence between var & let)
 
+
+[TOP](#index)
+
+---
+
+## Libraries
+
+* express 
+* path 
+* body-parser
+* cors
+
+[TOP](#index)
+
+---
+## Frameworks
+
+* vue js
+* node js
 
 [TOP](#index)
 
