@@ -25,7 +25,7 @@ Moreover private persons will be able to offer their help for the community (i.e
 ### Index
 
 * [Use cases](#use-cases)
-* [Solution Explanation](#solution-explanation)
+* [Application Drafts](#application-drafts)
 * [Constraints](#constraints)
 * [Resource Estimation](#resource-estimation)
 * [Bugs & Challenges](#bugs-challenges) 
@@ -109,13 +109,14 @@ As a private user I can:
 
 ___
 
-## Solution Explanation
+## Application Drafts
 
-Explain your solution in detail, however works for you.  Perhaps by using a specific input to illustrate, by describing your strategy, or by including a diagram [directly from Sketchboard.io](https://sketchboard.io/blog/2014/03/06/github-sketchboard.html).
+[Application WireFramePro Draft](https://wireframepro.mockflow.com/view/draftApplication)
 
 [TOP](#index)
 
 ---
+
 
 ## Constraints
 
